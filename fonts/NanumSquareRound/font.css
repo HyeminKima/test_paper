@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-style: normal;
+  font-weight: 400;
+  src: url(nanum-square-round-regular.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'NanumSquareRound';
+  font-style: normal;
+  font-weight: 700;
+  src: url(nanum-square-round-bold.woff) format('woff');
+}
